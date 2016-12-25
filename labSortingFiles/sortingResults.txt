@@ -1,0 +1,3 @@
+Please specify the largest array size: (or simply press return to use 1000)
+Please enter the output filename (or simply press return to use labSorting-outputA.txt)
+Please specify the random number generator seed (or simply press return to use the current time)

@@ -1,0 +1,99 @@
+O	72
+S
+P	141
+O	33
+S
+O	141
+S
+O	276
+D	O00197_HUMAN	33	cagtatgtatgttttcattagtgcgcaggccattgccaattatccaataatggcagatacattatgcatggccttggtacattaccccgtaaaaatctatttctctccaatgcatcattatttaccccgttgccgcaatgcgccatgtaccaatgcgctctga	163	4
+S
+P	241
+O	33
+S
+O	241
+O	72
+S
+S
+P	229
+D	CISY_EMENI	41	atcaccggatggatccaatatcgagcacagggcccttggtcccggccggctag	53	8
+D	MGR8_HUMAN	98	ccccatttcatgcaacgtataatatggagtaaacatgaatgtgtaactgttcaatttccgtcgtaa	66	9
+D	O00197_HUMAN	33	cagtatgtatgttttcattagtgcgcaggccattgccaattatccaataatggcagatacattatgcatggccttggtacattaccccgtaaaaatctatttctctccaatgcatcattatttaccccgttgccgcaatgcgccatgtaccaatgcgctctga	163	4
+S
+P	41
+O	98
+O	72
+S
+O	41
+O	33
+S
+P	111
+D	CISY_EMENI	41	atcaccggatggatccaatatcgagcacagggcccttggtcccggccggctag	53	8
+S
+P	298
+O	233
+O	76
+O	41
+O	298
+O	176
+O	198
+S
+P	298
+O	233
+O	241
+O	276
+S
+O	72
+O	232
+S
+O	298
+S
+O	198
+D	O00197_HUMAN	33	cagtatgtatgttttcattagtgcgcaggccattgccaattatccaataatggcagatacattatgcatggccttggtacattaccccgtaaaaatctatttctctccaatgcatcattatttaccccgttgccgcaatgcgccatgtaccaatgcgctctga	163	4
+D	P3C2A_HUMAN	82	aatgggtcgtttgcactgttggttgactgcggctagcgaatag	43	1
+S
+P	141
+O	298
+O	33
+O	176
+O	82
+O	141
+O	232
+S
+O	98
+S
+O	298
+S
+P	133
+O	133
+S
+O	132
+O	298
+S
+O	176
+O	34
+O	282
+O	172
+S
+O	141
+P	98
+D	PK3CD_HUMAN	76	tagtaggggatgttgccgatgtattggaagatagtcatccatctcta48	9
+D	P3C2A_HUMAN	82	aatgggtcgtttgcactgttggttgactgcggctagcgaatag	43	1
+D	MGR8_HUMAN	98	ccccatttcatgcaacgtataatatggagtaaacatgaatgtgtaactgttcaatttccgtcgtaa	66	9
+S
+P	134
+O	34
+S
+O	82
+O	132
+O	134
+O	76
+S
+O	98
+O	233
+O	241
+O	172
+O	132
+D	MGR8_HUMAN	98	ccccatttcatgcaacgtataatatggagtaaacatgaatgtgtaactgttcaatttccgtcgtaa	66	9
+S
+P	233

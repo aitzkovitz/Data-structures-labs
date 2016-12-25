@@ -1,0 +1,16 @@
+P	9999
+O	9999
+S
+D	CISY_EMENI	17	cttggacagcatggagttctcgagccaaatttgtcggtacactaccttaaacagccctagcgaatctcggcaacatgtgacggttggtatcgtgcgcgcttgtctgggccgggccgatgcgctatag	127	10
+R	CISY_EMENI	117	auggaguucucgagccaaauuugucgguacacuaccuuaaacagcccuagcgaaucucggcaacaugugacgguugguaucgugcgcgcuugucugggccgggccgaugcgcua	114	mRNA
+A	CISY_EMENI	217	MEFSSQICRYTTLNSPSESRQHVTVGIVRACLGRADAL	38	1
+P	17
+P	117
+P	217
+O	17
+S
+O	117
+O	217
+P	1234567890
+O	1234567890
+S

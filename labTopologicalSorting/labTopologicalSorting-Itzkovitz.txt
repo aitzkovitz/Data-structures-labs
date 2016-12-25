@@ -1,0 +1,11 @@
+Please enter the prereqs filename (or simply press return to use exsc-prereqs.tab)
+Found 8 vertices and 7 edges in exsc-prereqs.tab
+Course order:
+BIOL_2010
+EXSC_3830
+EXSC_4240
+EXSC_4260
+EXSC_4000
+EXSC_4010
+EXSC_4230
+BIOL_2020

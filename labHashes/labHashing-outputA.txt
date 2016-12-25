@@ -1,0 +1,51 @@
+Entries: 0
+
+Printing CISY_EMENI_DNA ...
+Can not find item (CISY_EMENI_DNA), NOT found!
+
+Obliterating CISY_EMENI_DNA ...
+Can not delete item (CISY_EMENI_DNA), NOT found!
+
+Adding CISY_EMENI_DNA ...
+Load factor: 0.333333
+Hash table size: 3
+
+Adding CISY_EMENI_RNA ...
+Load factor: 0.666667
+Hash table size: 3
+
+Adding CISY_EMENI_AA ...
+Load factor: 1
+Hash table size: 3
+
+Adding O0197_HUMAN_DNA ...
+Load factor: 0.571429
+Hash table size: 7
+
+Printing CISY_EMENI_DNA ...
+DNA:	Label: CISY_EMENI_DNA	ID: 17	Sequence: cttggacagcatggagttctcgagccaaatttgtcggtacactaccttaaacagccctagcgaatctcggcaacatgtgacggttggtatcgtgcgcgcttgtctgggccgggccgatgcgctatag	Length: 127	cDNAStartIndex: 10
+
+Printing CISY_EMENI_RNA ...
+RNA:	Label: CISY_EMENI_RNA	ID: 117	Sequence: auggaguucucgagccaaauuugucgguacacuaccuuaaacagcccuagcgaaucucggcaacaugugacgguugguaucgugcgcgcuugucugggccgggccgaugcgcua	Length: 114	Type: mRNA
+
+Printing CISY_EMENI_AA ...
+AA:	Label: CISY_EMENI_AA	ID: 217	Sequence: MEFSSQICRYTTLNSPSESRQHVTVGIVRACLGRADAL	Length: 38	ORF: 1
+
+Obliterating CISY_EMENI_DNA ...
+Load factor: 0.428571
+Hash table size: 7
+
+Entries: 3
+
+Obliterating CISY_EMENI_RNA ...
+Load factor: 0.285714
+Hash table size: 7
+
+Printing DOES_NOT_EXIST ...
+Can not find item (DOES_NOT_EXIST), NOT found!
+
+Obliterating DOES_NOT_EXIST ...
+Can not delete item (DOES_NOT_EXIST), NOT found!
+
+Entries: 2
+

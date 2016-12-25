@@ -1,0 +1,17 @@
+3
+S
+P	CISY_EMENI_DNA
+O	CISY_EMENI_DNA
+D	CISY_EMENI_DNA	17	cttggacagcatggagttctcgagccaaatttgtcggtacactaccttaaacagccctagcgaatctcggcaacatgtgacggttggtatcgtgcgcgcttgtctgggccgggccgatgcgctatag	127	10
+R	CISY_EMENI_RNA	117	auggaguucucgagccaaauuugucgguacacuaccuuaaacagcccuagcgaaucucggcaacaugugacgguugguaucgugcgcgcuugucugggccgggccgaugcgcua	114	mRNA
+A	CISY_EMENI_AA	217	MEFSSQICRYTTLNSPSESRQHVTVGIVRACLGRADAL	38	1
+D	O0197_HUMAN_DNA	1	ctcatcacgtcctcatggatcgagaactcgaaagtgtttgtgaaaagctatccaagtactga	62	14
+P	CISY_EMENI_DNA
+P	CISY_EMENI_RNA
+P	CISY_EMENI_AA
+O	CISY_EMENI_DNA
+S
+O	CISY_EMENI_RNA
+P	DOES_NOT_EXIST
+O	DOES_NOT_EXIST
+S

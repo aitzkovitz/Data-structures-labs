@@ -1,0 +1,204 @@
+Importing testInput.tab ...
+Obliterating 72 ...
+Can not delete DNA (72), NOT found!
+
+Entries: 0
+
+Printing 141 ...
+Can not find item (141)!
+
+Obliterating 33 ...
+Can not delete DNA (33), NOT found!
+
+Entries: 0
+
+Obliterating 141 ...
+Can not delete DNA (141), NOT found!
+
+Entries: 0
+
+Obliterating 276 ...
+Can not delete DNA (276), NOT found!
+
+Adding 33 ...
+
+Entries: 1
+
+Printing 241 ...
+Can not find item (241)!
+
+Obliterating 33 ...
+
+Entries: 0
+
+Obliterating 241 ...
+Can not delete DNA (241), NOT found!
+
+Obliterating 72 ...
+Can not delete DNA (72), NOT found!
+
+Entries: 0
+
+Entries: 0
+
+Printing 229 ...
+Can not find item (229)!
+
+Adding 41 ...
+
+Adding 98 ...
+
+Adding 33 ...
+
+Entries: 3
+
+Printing 41 ...
+DNA:	Label: CISY_EMENI  ID: 41	Sequence: atcaccggatggatccaatatcgagcacagggcccttggtcccggccggctag	Length: 53	cDNAStartIndex: 8
+
+Obliterating 98 ...
+
+Obliterating 72 ...
+Can not delete DNA (72), NOT found!
+
+Entries: 2
+
+Obliterating 41 ...
+
+Obliterating 33 ...
+
+Entries: 0
+
+Printing 111 ...
+Can not find item (111)!
+
+Adding 41 ...
+
+Entries: 1
+
+Printing 298 ...
+Can not find item (298)!
+
+Obliterating 233 ...
+Can not delete DNA (233), NOT found!
+
+Obliterating 76 ...
+Can not delete DNA (76), NOT found!
+
+Obliterating 41 ...
+
+Obliterating 298 ...
+Can not delete DNA (298), NOT found!
+
+Obliterating 176 ...
+Can not delete DNA (176), NOT found!
+
+Obliterating 198 ...
+Can not delete DNA (198), NOT found!
+
+Entries: 0
+
+Printing 298 ...
+Can not find item (298)!
+
+Obliterating 233 ...
+Can not delete DNA (233), NOT found!
+
+Obliterating 241 ...
+Can not delete DNA (241), NOT found!
+
+Obliterating 276 ...
+Can not delete DNA (276), NOT found!
+
+Entries: 0
+
+Obliterating 72 ...
+Can not delete DNA (72), NOT found!
+
+Obliterating 232 ...
+Can not delete DNA (232), NOT found!
+
+Entries: 0
+
+Obliterating 298 ...
+Can not delete DNA (298), NOT found!
+
+Entries: 0
+
+Obliterating 198 ...
+Can not delete DNA (198), NOT found!
+
+Adding 33 ...
+
+Adding 82 ...
+
+Entries: 2
+
+Printing 141 ...
+Can not find item (141)!
+
+Obliterating 298 ...
+Can not delete DNA (298), NOT found!
+
+Obliterating 33 ...
+
+Obliterating 176 ...
+Can not delete DNA (176), NOT found!
+
+Obliterating 82 ...
+
+Obliterating 141 ...
+Can not delete DNA (141), NOT found!
+
+Obliterating 232 ...
+Can not delete DNA (232), NOT found!
+
+Entries: 0
+
+Obliterating 98 ...
+Can not delete DNA (98), NOT found!
+
+Entries: 0
+
+Obliterating 298 ...
+Can not delete DNA (298), NOT found!
+
+Entries: 0
+
+Printing 133 ...
+Can not find item (133)!
+
+Obliterating 133 ...
+Can not delete DNA (133), NOT found!
+
+Entries: 0
+
+Obliterating 132 ...
+Can not delete DNA (132), NOT found!
+
+Obliterating 298 ...
+Can not delete DNA (298), NOT found!
+
+Entries: 0
+
+Obliterating 176 ...
+Can not delete DNA (176), NOT found!
+
+Obliterating 34 ...
+Can not delete DNA (34), NOT found!
+
+Obliterating 282 ...
+Can not delete DNA (282), NOT found!
+
+Obliterating 172 ...
+Can not delete DNA (172), NOT found!
+
+Entries: 0
+
+Obliterating 141 ...
+Can not delete DNA (141), NOT found!
+
+Printing 98 ...
+Can not find item (98)!
+
+Adding 76 ...
+
