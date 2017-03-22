@@ -22,23 +22,23 @@ class HashTable
 {
 public:
 	
-	HashTable(const int& tableSize);							// value constructor; takes size of hashtable
-	~HashTable();												// destructor
-	void addSequence(const string& label, T dataPointer);		// method to add sequence to table
-	T retrieve(string label);									// interface method to retrieve a sequence object
-	int getSize() const;										// method returns size
-	double getLoad();											// method returns load factor
-	bool obliterate(const string& label);						// method deletes object from table based on label
-	void rehash(HashTable<T> *& oldHashTable);					// method rehashes table when load is over 1
-	int getUsed();												// returns the amount of objects in the table in total
+	HashTable(const int& tableSize);					// value constructor; takes size of hashtable
+	~HashTable();								// destructor
+	void addSequence(const string& label, T dataPointer);			// method to add sequence to table
+	T retrieve(string label);						// interface method to retrieve a sequence object
+	int getSize() const;							// method returns size
+	double getLoad();							// method returns load factor
+	bool obliterate(const string& label);					// method deletes object from table based on label
+	void rehash(HashTable<T> *& oldHashTable);				// method rehashes table when load is over 1
+	int getUsed();								// returns the amount of objects in the table in total
 private:
-	vector<list<T>> bucketChain;				// bucketChain is a vector of lists
-	unsigned int hash( string label) const;		// hash function
-	int size;									// number of lists in total
-	int numOfFullBuckets;						// number of entries in table
+	vector<list<T>> bucketChain;						// bucketChain is a vector of lists
+	unsigned int hash( string label) const;					// hash function
+	int size;								// number of lists in total
+	int numOfFullBuckets;							// number of entries in table
 	double loadFactor;							// average length of lists
-	T find(const string& label);				// returns the objects stored in the table
-	bool deleteSequence(const string& label);	// deletes a sequence given the label
+	T find(const string& label);						// returns the objects stored in the table
+	bool deleteSequence(const string& label);				// deletes a sequence given the label
 };
 
 // value constructor
